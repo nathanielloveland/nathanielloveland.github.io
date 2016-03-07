@@ -9,7 +9,7 @@ name: SfC0
 description: Welcome, The SuperFresh Co.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://scontent.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/11999011_1635384926743549_9128866881177893281_n.png?oh=12d1d5fcdebeb8023296117668e81be0&oe=57532A48
 
 #
 # Flags below are optional
@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: sofreshitssuper
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
