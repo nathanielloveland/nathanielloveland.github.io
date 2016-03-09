@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome to the SuperFresh Co.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Specialty computer services, consultations and repairs.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sofreshitssuper@gmail.com](mailto:sofreshitssuper@gmail.com)
+(424) 781-7371
