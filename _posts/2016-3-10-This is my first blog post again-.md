@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The is my first blog post again
+title: This is my first blog post again
 ---
 Today I went to the store for lunch it was fun. I bought a homeless guy lunch
 too. He was nice. Then I got some cheerios for a snack at work and came back to
