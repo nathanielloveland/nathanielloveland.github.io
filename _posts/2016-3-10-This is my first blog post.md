@@ -12,15 +12,15 @@ Seems good so far!
 
 Here is a list of other things I want to do today:
 
-[^1]
+click here to go to bottom of page if you want [^1]
 
--   [^1]have a cow[^2]
+-   have a cow
 
--   [^2]teach a dog how to bark[^3]
+-   teach a dog how to bark
 
--   [^3]eat some shorts[^4]
+-   eat some shorts
 
--   [^4]have a ball
+-   have a ball
 
  
 
