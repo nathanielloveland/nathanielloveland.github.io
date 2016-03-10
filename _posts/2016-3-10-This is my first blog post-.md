@@ -2,9 +2,6 @@
 layout: post
 title: The is my first blog post again
 ---
-
-**This is my 1st blog post again**
-
  
 
 Today I went to the store for lunch it was fun. I bought a homeless guy lunch
@@ -44,7 +41,7 @@ Hurray! This is much easier.
 |   |   |   |      |   | row |   |   |
 |   |   |   |      |   |     |   |   |
 
--   *is this another type of list*
+-   *is this another type of list?*
 
 -   yes
 
