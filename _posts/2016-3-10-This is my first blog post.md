@@ -14,13 +14,13 @@ Here is a list of other things I want to do today:
 
 [^1]
 
-[^1]: have a cow[^2]
+-   [^1]have a cow[^2]
 
-[^2]: teach a dog how to bark[^3]
+-   [^2]teach a dog how to bark[^3]
 
-[^3]: eat some shorts[^4]
+-   [^3]eat some shorts[^4]
 
-[^4]: have a ball
+-   [^4]have a ball
 
  
 
