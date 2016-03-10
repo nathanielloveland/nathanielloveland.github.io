@@ -12,8 +12,6 @@ Seems good so far!
 
 Here is a list of other things I want to do today:
 
-click here to go to bottom of page if you want [^1]
-
 -   have a cow
 
 -   teach a dog how to bark
