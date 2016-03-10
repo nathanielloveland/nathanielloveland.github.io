@@ -39,7 +39,7 @@ Hurray! This is much easier.
 |   |   |   |      |   | row |   |   |
 |   |   |   |      |   |     |   |   |
 
--   *is this another type of list *
+-   *is this another type of list*
 
 -   yes
 
@@ -49,8 +49,8 @@ Hurray! This is much easier.
 
  
 
-Biggie 
-=======
+Biggie
+======
 
 Smalls
 
