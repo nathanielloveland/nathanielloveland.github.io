@@ -1,4 +1,9 @@
-**This is my 1st blog post**
+---
+layout: post
+title: The is my first blog post again
+---
+
+**This is my 1st blog post again**
 
  
 
